@@ -9,3 +9,5 @@ Here is some normal text.
 * list item 3
 
 ![](investment2.jpg)
+
+Testing if this line would appear live
